@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 // import { Router } from "react-router";
 import {
   BrowserRouter as Router,
-  Redirect,
+  //   Redirect,
   Route,
   Switch,
 } from "react-router-dom";
